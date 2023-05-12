@@ -1,0 +1,18 @@
+.myCard {
+    width: 20%;
+    display: flex;
+    margin: 1rem;
+    text-decoration: none;
+}
+
+.myCard:active {
+    background-color: #eee;
+    box-shadow: 13px 13px 10px black;
+}
+
+
+.nav {
+    max-width: max-content;
+    display: flex;
+    justify-content: space-around;
+}
