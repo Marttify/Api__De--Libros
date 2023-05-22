@@ -1,0 +1,10 @@
+
+
+Traslada al proyecto integrador el concepto de objetos, vistos en la clase de hoy.
+En funcion del tipo de simulador que haya elegido, deberas:
+
+
+1- Crear elementos manipulando el DOM a partir de la informacion de tus objetos.
+2- Modificar etiquetas existentes en funcion del resultado de operaciones.
+
+
