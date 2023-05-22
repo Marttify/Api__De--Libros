@@ -31,7 +31,7 @@
 
 .header h1 {
     color: var(--Color-Tres);
-    height: 60%;
+    /* height: 60%; */
 }
 
 
@@ -46,4 +46,16 @@
 .myCard:active {
     background-color: var(--Color-Cinco);
     box-shadow: 13px 13px 10px var(--Color-Uno);
+}
+
+
+
+
+
+@media (max-width:400px) {
+    .header {
+        flex-direction: column;
+        padding: 2rem;
+        height: max-content;
+    }
 }
