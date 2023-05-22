@@ -1,3 +1,15 @@
+/* Paleta de colores: https://colorhunt.co/palette/27374d526d829db2bfdde6ed */
+
+
+:root {
+    --Color-Uno: #27374D;
+    --Color-Dos: #526D82;
+    --Color-Tres: #9DB2BF;
+    --Color-Cuatro: #DDE6ED;
+    --Color-Cinco: #eee;
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -5,11 +17,11 @@
 }
 
 .main {
-    background-color: #9DB2BF;
+    background-color: var(--Color-Dos);
 }
 
 .header {
-    background-color: #537188;
+    background-color: var(--Color-Uno);
     width: 100%;
     height: 10vh;
     display: flex;
@@ -18,7 +30,7 @@
 }
 
 .header h1 {
-    color: #9DB2BF;
+    color: var(--Color-Tres);
     height: 60%;
 }
 
@@ -28,10 +40,10 @@
     width: 350px;
     text-decoration: none;
     margin: 1rem;
-    background-color: #DDE6ED;
+    background-color: var(--Color-Cuatro);
 }
 
 .myCard:active {
-    background-color: #eee;
-    box-shadow: 13px 13px 10px black;
+    background-color: var(--Color-Cinco);
+    box-shadow: 13px 13px 10px var(--Color-Uno);
 }
