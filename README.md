@@ -1,9 +1,9 @@
 <h1 align="center">
-  # Api__De--Libros
+    # Api__De--Libros
 </h1>
 
 <p align="center">
-  Realice este proyecto como forma de practica sobre consumos de API
+    Do this project as a form of practice on consuming APIs
 </p>
 
 &nbsp;
@@ -14,7 +14,7 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-## :hammer:Funcionalidades del proyecto
+## :hammer:Project functionalities
 
 - 1- `Funcionalidad 1`: Pressures to APIS
 - 2- `Funcionalidad 2`: Render component Card
@@ -22,7 +22,7 @@
 
 &nbsp;
 
-## 🏗️ Funcionalidades para incorporar
+## 🏗️ Functionalities to add
 
 - 1- `Funcionalidad 1`: Slider Card
 - 2- `Funcionalidad 2`: Burger Menu
