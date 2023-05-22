@@ -56,13 +56,13 @@
   
 &nbsp;
 
-\## 📁 Project access
+## 📁 Project access
 
 ```
   git clone origin https://github.com/Aguilar1998/Api__De--Libros.git
 ```
 
-\## 🛠️ Open and run the project.
+## 🛠️ Open and run the project.
 
 ```
   cd Api__De--Libros
