@@ -6,16 +6,16 @@ Realice este proyecto como forma de practica sobre consumos de API
 
 ## ✓ Funcionalidades Activas
 
-- [Pressures to APIS](#Título-e-imagen-de-portada)
+- [Pressures to APIS](#T)
 
-- [Render component Card](#insignias)
+- [Render component Card](#)
 
-- [Search Card](#índice)
+- [Search Card](#)
 
 ## 🏗️ Funcionalidades para incorporar
 
-- [Slider Card](#Título-e-imagen-de-portada)
+- [Slider Card](#)
 
-- [Burger Menu](#insignias)
+- [Burger Menu](#)
 
-- [Dark / Light Mode](#índice)
+- [Dark / Light Mode](#)
