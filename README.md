@@ -22,7 +22,7 @@
 
 &nbsp;
 
-## 🏗️ Functionalities to add
+## 🏗️Functionalities to add
 
 - 1- `Funcionalidad 1`: Slider Card
 - 2- `Funcionalidad 2`: Burger Menu
@@ -32,7 +32,7 @@
 &nbsp;
 &nbsp;
 
-## ✔ Used technology
+## ✔Used technology
 
   <ol align="start">
       <li align="start">
