@@ -12,6 +12,8 @@
   :construction: Proyecto en construcción :construction:
 </h4>
 
+<img width="1537" alt="Captura de pantalla 2025-01-02 a la(s) 2 27 43 a  m" src="https://github.com/user-attachments/assets/b685b346-729d-46a8-893d-87916a58c9a5" />
+
 ![Estado del Proyecto](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
 
 ---
