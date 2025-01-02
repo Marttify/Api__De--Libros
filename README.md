@@ -3,73 +3,69 @@
 </h1>
 
 <p align="center">
-    Do this project as a form of practice on consuming APIs
+  Una práctica de consumo de APIs, donde podrás ver cómo integrar y mostrar datos de libros mediante solicitudes a un servicio externo.
 </p>
 
 &nbsp;
 
 <h4 align="center">
-  :construction: Project under construction :construction:
+  :construction: Proyecto en construcción :construction:
 </h4>
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Estado del Proyecto](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
 
-## :hammer:Project functionalities
+---
 
-- 1- `Funcionalidad 1`: Pressures to APIS
-- 2- `Funcionalidad 2`: Render component Card
-- 3- `Funcionalidad 3`: Search Card
+## 🛠️ Características Implementadas
+
+- **Consumo de API**: Realiza peticiones a la API para obtener datos de libros.
+- **Componente Card**: Muestra los datos de los libros en un componente tipo "Card".
+- **Búsqueda de Libros**: Permite buscar libros por título o autor.
+
+&nbsp;
+
+## ✔ Tecnologías Utilizadas
+
+- **HTML**
+- **CSS**
+  - Bootstrap 5
+  - CSS propio
+- **JavaScript**
 
 &nbsp;
 
-## 🏗️Functionalities to add
+## 📁 Acceso al Proyecto
 
-- 1- `Funcionalidad 1`: Slider Card
-- 2- `Funcionalidad 2`: Burger Menu
-- 3- `Funcionalidad 3`: Dark / Light Mode
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-## ✔Used technology
-
-  <ol align="start">
-      <li align="start">
-          HTML 
-      </li>
-      <li align="start">
-          CSS
-          <ul>
-            <li>
-                Bootstrap 5
-            </li> 
-             <li>
-                Own CSS
-            </li> 
-          </ul>
-      </li>
-      <li align="start">
-          JavaScript
-      </li>
-  </ol>
-  
-&nbsp;
-
-## 📁 Project access
+Puedes clonar el repositorio usando el siguiente comando:
 
 ```
-  git clone origin https://github.com/Aguilar1998/Api__De--Libros.git
+git clone https://github.com/Aguilar1998/Api__De--Libros.git
 ```
 
-## 🛠️ Open and run the project.
+## 🛠️ Instrucciones para Ejecutar el Proyecto
 
-```
-  cd Api__De--Libros
-  git checkout newBranch
+1. Clona el repositorio:
 
-```
+   ```
+   git clone https://github.com/Aguilar1998/Api__De--Libros.git
+   ```
 
-<h3 align="center">
-    Start working 🙌🏽
-</h3>
+2. Accede al directorio del proyecto:
+
+   ```
+   cd Api__De--Libros
+   ```
+
+3. Cambia a la rama de trabajo:
+
+   ```
+   git checkout newBranch
+   ```
+
+4. Abre el proyecto en tu editor de código preferido y comienza a trabajar.
+
+---
+
+## 🙌 Empezar a trabajar
+
+¡Diviértete creando y mejorando este proyecto! Si tienes alguna duda o sugerencia, no dudes en abrir un **issue**.
