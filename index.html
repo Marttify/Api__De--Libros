@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Libreria</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
 </head>
 
 <body>
     <header class="header">
-        <h1>Libros</h1>
+        <a class="Logo" href="index.html">Libros</a>
 
         <form id="form__Header" class="d-flex" role="search">
             <input id="input__Search" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -35,9 +35,10 @@
         crossorigin="anonymous"></script>
 
     <!-- Javascript -->
-    <script src="./db/data.js"></script>
-    <script src="./Components/Card.js"></script>
-    <script src="./event/search.js"></script>
+    <script src="./data/data.js"></script>
+    <script src="./components/card.js"></script>
+    <script src="./modules/search.js"></script>
+    <script src="./components/error.js"></script>
 </body>
 
 </html>

@@ -1,0 +1,71 @@
+/* ------------------------------------------------------------
+   Proyecto: Tarjeta con encabezado y fondo principal
+   Autor: Martín Aguilar
+   Descripción: Estilos base, paleta de colores y componentes principales.
+   Paleta: https://colorhunt.co/palette/27374d526d829db2bfdde6ed
+   Última actualización: Oct 2025
+   ------------------------------------------------------------ */
+
+/* ----- Variables ----- */
+:root {
+  --Color-Uno: #27374D;
+  /* Azul oscuro – header */
+  --Color-Dos: #526D82;
+  /* Azul medio – fondo */
+  --Color-Tres: #9DB2BF;
+  /* Azul grisáceo – texto */
+  --Color-Cuatro: #DDE6ED;
+  /* Azul claro – tarjetas */
+  --Color-Cinco: #eee;
+  /* Gris suave – activo */
+}
+
+/* ----- Reset ----- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ----- Layout ----- */
+.main {
+  background-color: var(--Color-Dos);
+  min-height: 90vh;
+  display: flex;
+  margin: auto;
+}
+
+.header {
+  background-color: var(--Color-Uno);
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header .Logo {
+  color: var(--Color-Tres);
+}
+
+/* ----- Card ----- */
+.myCard {
+  width: 350px;
+  margin: 1rem;
+  text-decoration: none;
+  background-color: var(--Color-Cuatro);
+}
+
+.myCard:active {
+  background-color: var(--Color-Cinco);
+  box-shadow: 13px 13px 10px var(--Color-Uno);
+}
+
+/* ----- Responsive ----- */
+@media (max-width: 400px) {
+  .header {
+    flex-direction: column;
+    padding: 2rem;
+    height: max-content;
+  }
+}
